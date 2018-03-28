@@ -393,8 +393,8 @@ a {
     background-image: url(../img/calender.png);
     background-repeat: no-repeat;
     background-position: 5%;
-    padding-left: 15%;
-    margin-right: 60px;
+    padding-left: 2.3em;
+    margin-right: 2em;
 }
 
 .view_price_btn {
@@ -895,6 +895,6 @@ select {
     margin-top: 16px;
 }
 
-html{
+html {
     min-width: 1387px;
 }
