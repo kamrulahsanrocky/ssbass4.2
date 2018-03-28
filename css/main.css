@@ -894,3 +894,7 @@ select {
 .login-btn {
     margin-top: 16px;
 }
+
+html{
+    min-width: 1387px;
+}
