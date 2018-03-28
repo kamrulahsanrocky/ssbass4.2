@@ -181,7 +181,7 @@ input[type=date]::-webkit-inner-spin-button {
 }
 
 #package_booking {
-    /* background: url(../img/packages_bg.jpg) no-repeat center; */
+    background: url(../img/packages_bg.jpg) no-repeat center;
     background-size: cover;
     min-height: 600px;
     border-bottom: 2px solid #949698;
@@ -189,7 +189,7 @@ input[type=date]::-webkit-inner-spin-button {
 }
 
 #room_types {
-    /* background: url(../img/main_bg.jpg) no-repeat center; */
+    background: url(../img/main_bg.jpg) no-repeat center;
     min-height: 1000px;
     overflow: hidden;
     background-size: cover;
